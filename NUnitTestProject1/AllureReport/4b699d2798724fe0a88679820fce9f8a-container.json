@@ -1,0 +1,28 @@
+{
+  "uuid": "6e9fb48f-18ac-4b0b-a8cc-0de47d1ec698-tc-0-1000",
+  "name": "NUnitTestProject1.CalculatorShould.TwoPlusTwoEqualFour",
+  "children": [
+    "8ad08dde-07c6-4d74-b7aa-bb6626092af9-tr-0-1002"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1620986041079,
+      "stop": 1620986041079
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1620986041078,
+  "stop": 1620986041081
+}

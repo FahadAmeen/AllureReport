@@ -1,0 +1,88 @@
+{
+  "uuid": "2b1acc57-c508-47cc-bd04-d8175333685b-tr-0-1006",
+  "historyId": "NUnitTestProject1.CalculatorShould.FourSubtractOneEqualFive",
+  "fullName": "NUnitTestProject1.CalculatorShould.FourSubtractOneEqualFive",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NB-MFAH"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "testMethod",
+      "value": "FourSubtractOneEqualFive"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "tag",
+      "value": "Subtraction"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "AllureTag"
+    },
+    {
+      "name": "tag",
+      "value": "Subtract"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "Subtract"
+    }
+  ],
+  "links": [],
+  "name": "FourSubtractOneEqualFive",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Subtract 4 -1 = 3\n",
+  "steps": [
+    {
+      "name": "FourSubtractOneEqualFive",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "7b8139ae0b0a4853af9ad306c5c53050-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1620986272425,
+      "stop": 1620986272426
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1620986272425,
+  "stop": 1620986272426
+}

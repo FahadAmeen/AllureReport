@@ -1,0 +1,88 @@
+{
+  "uuid": "1980ea5a-19e7-4cca-a61a-c98b8ae994de-tr-0-1004",
+  "historyId": "NUnitTestProject1.CalculatorShould.OneSubtractOneEqualTwo",
+  "fullName": "NUnitTestProject1.CalculatorShould.OneSubtractOneEqualTwo",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NB-MFAH"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "testMethod",
+      "value": "OneSubtractOneEqualTwo"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "tag",
+      "value": "Subtraction"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "AllureTag"
+    },
+    {
+      "name": "tag",
+      "value": "Subtract"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "Subtract"
+    }
+  ],
+  "links": [],
+  "name": "OneSubtractOneEqualTwo",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Subtract 1 -1 = 0\n",
+  "steps": [
+    {
+      "name": "OneSubtractOneEqualTwo",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "c10a5b46643f483584b13fdc84492839-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1620987300235,
+      "stop": 1620987300236
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1620987300235,
+  "stop": 1620987300236
+}

@@ -1,0 +1,88 @@
+{
+  "uuid": "8cccaca1-a609-4065-9d40-8d8b042d56a6-tr-0-1001",
+  "historyId": "NUnitTestProject1.CalculatorShould.OnePlusOneEqualTwo",
+  "fullName": "NUnitTestProject1.CalculatorShould.OnePlusOneEqualTwo",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NB-MFAH"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "testMethod",
+      "value": "OnePlusOneEqualTwo"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "tag",
+      "value": "Addition"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "AllureTag"
+    },
+    {
+      "name": "tag",
+      "value": "addition"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "Addition"
+    }
+  ],
+  "links": [],
+  "name": "OnePlusOneEqualTwo",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Add 1 +1 = 2\n",
+  "steps": [
+    {
+      "name": "OnePlusOneEqualTwo",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "017c84ab8aa74c609c7febc3e7efc7ca-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1620986272428,
+      "stop": 1620986272429
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1620986272428,
+  "stop": 1620986272429
+}

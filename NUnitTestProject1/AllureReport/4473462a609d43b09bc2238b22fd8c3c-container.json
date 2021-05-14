@@ -1,0 +1,28 @@
+{
+  "uuid": "b0ec48bb-9a42-4394-89bb-4074b76d8f72-tc-0-1000",
+  "name": "NUnitTestProject1.CalculatorShould.TwoSubtractTwoEqualFour",
+  "children": [
+    "67ca3f70-ed3e-43a9-8348-4aeb5de7ed7c-tr-0-1005"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1620986272436,
+      "stop": 1620986272436
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1620986272436,
+  "stop": 1620986272438
+}

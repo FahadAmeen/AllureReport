@@ -1,0 +1,84 @@
+{
+  "uuid": "9468e593-20cd-44eb-a257-ae6fef30c748-tr-0-1008",
+  "historyId": "NUnitTestProject1.DemoClass.AllureTest",
+  "fullName": "NUnitTestProject1.DemoClass.AllureTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NB-MFAH"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.DemoClass"
+    },
+    {
+      "name": "testMethod",
+      "value": "AllureTest"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.DemoClass"
+    },
+    {
+      "name": "tag",
+      "value": "Category: LongTerm"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "AllureTag"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "AllureFeature: Core"
+    }
+  ],
+  "links": [],
+  "name": "AllureTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Description: test\n",
+  "steps": [
+    {
+      "name": "AllureTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "9630f0b68b884848a2a866adfc1bcbef-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1620986272445,
+      "stop": 1620986272446
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1620986272445,
+  "stop": 1620986272446
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "be4da505-6422-449e-8348-621e77cdb652-tc-0-1004",
+  "name": "NUnitTestProject1.DemoClass.AllureTest",
+  "children": [
+    "b5995b7a-1dea-4413-bdc8-eeaae3282c3d-tr-0-1005"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1620986041087,
+  "stop": 1620986041088
+}

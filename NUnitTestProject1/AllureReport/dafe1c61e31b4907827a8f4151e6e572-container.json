@@ -1,0 +1,28 @@
+{
+  "uuid": "ac556702-f8db-4014-90f4-2a057de801d9-tc-0-1000",
+  "name": "NUnitTestProject1.CalculatorShould.FourSubtractOneEqualFive",
+  "children": [
+    "aeacbbc5-b7ea-4334-ac5d-d403d1b3f4bc-tr-0-1006"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1620987300229,
+      "stop": 1620987300229
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1620987300228,
+  "stop": 1620987300230
+}

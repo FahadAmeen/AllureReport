@@ -1,0 +1,88 @@
+{
+  "uuid": "67ca3f70-ed3e-43a9-8348-4aeb5de7ed7c-tr-0-1005",
+  "historyId": "NUnitTestProject1.CalculatorShould.TwoSubtractTwoEqualFour",
+  "fullName": "NUnitTestProject1.CalculatorShould.TwoSubtractTwoEqualFour",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NB-MFAH"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "testMethod",
+      "value": "TwoSubtractTwoEqualFour"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "tag",
+      "value": "Subtraction"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "AllureTag"
+    },
+    {
+      "name": "tag",
+      "value": "Subtract"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "Subtract"
+    }
+  ],
+  "links": [],
+  "name": "TwoSubtractTwoEqualFour",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Subtract 2 -2 = 0\n",
+  "steps": [
+    {
+      "name": "TwoSubtractTwoEqualFour",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "588267ceed304a5ab0c0d862ab61f4fa-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1620986272436,
+      "stop": 1620986272437
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1620986272436,
+  "stop": 1620986272437
+}

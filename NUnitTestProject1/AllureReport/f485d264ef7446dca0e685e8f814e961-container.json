@@ -1,0 +1,28 @@
+{
+  "uuid": "16e548aa-19f2-47b4-9630-67756cf67687-tc-0-1000",
+  "name": "NUnitTestProject1.CalculatorShould.OneSubtractOneEqualTwo",
+  "children": [
+    "bfbb7145-0b4f-4157-91a6-661af8646742-tr-0-1004"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1620986272431,
+      "stop": 1620986272431
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1620986272431,
+  "stop": 1620986272432
+}

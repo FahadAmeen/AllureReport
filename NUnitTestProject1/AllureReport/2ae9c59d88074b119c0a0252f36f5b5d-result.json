@@ -1,0 +1,88 @@
+{
+  "uuid": "8ad08dde-07c6-4d74-b7aa-bb6626092af9-tr-0-1002",
+  "historyId": "NUnitTestProject1.CalculatorShould.TwoPlusTwoEqualFour",
+  "fullName": "NUnitTestProject1.CalculatorShould.TwoPlusTwoEqualFour",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NB-MFAH"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "testMethod",
+      "value": "TwoPlusTwoEqualFour"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "tag",
+      "value": "Addition"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "AllureTag"
+    },
+    {
+      "name": "tag",
+      "value": "addition"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "Addition"
+    }
+  ],
+  "links": [],
+  "name": "TwoPlusTwoEqualFour",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Add 2 +2 = 4\n",
+  "steps": [
+    {
+      "name": "TwoPlusTwoEqualFour",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "c4e7acbc063441f99dee88acbb578fc4-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1620986041078,
+      "stop": 1620986041079
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1620986041078,
+  "stop": 1620986041080
+}

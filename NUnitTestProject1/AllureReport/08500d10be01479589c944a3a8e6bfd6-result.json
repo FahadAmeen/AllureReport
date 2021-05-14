@@ -1,0 +1,91 @@
+{
+  "uuid": "7093bd08-60b0-44da-b658-23acfe222dcb-tr-0-1009",
+  "historyId": "NUnitTestProject1.DemoClass.AllureTest2",
+  "fullName": "NUnitTestProject1.DemoClass.AllureTest2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NB-MFAH"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.DemoClass"
+    },
+    {
+      "name": "testMethod",
+      "value": "AllureTest2"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.DemoClass"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Fahd"
+    },
+    {
+      "name": "subSuite",
+      "value": "Automation"
+    }
+  ],
+  "links": [
+    {
+      "name": "555",
+      "url": "555",
+      "type": "issue"
+    },
+    {
+      "name": "66",
+      "url": "66",
+      "type": "tms"
+    }
+  ],
+  "name": "AllureTest2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Verify assert\n",
+  "steps": [
+    {
+      "name": "AllureTest2",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "3ee32280b1cd421c84e3f9f8cd0dcd8e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1620987300252,
+      "stop": 1620987300252
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1620987300252,
+  "stop": 1620987300253
+}

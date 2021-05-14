@@ -1,0 +1,88 @@
+{
+  "uuid": "621344af-ecdd-42e6-895e-085a71d52ce4-tr-0-1002",
+  "historyId": "NUnitTestProject1.DemoClass.AllureTest",
+  "fullName": "NUnitTestProject1.DemoClass.AllureTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NB-MFAH"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.DemoClass"
+    },
+    {
+      "name": "testMethod",
+      "value": "AllureTest"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.DemoClass"
+    },
+    {
+      "name": "tag",
+      "value": "Category: LongTerm"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "AllureTag"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "AllureFeature: Core"
+    }
+  ],
+  "links": [],
+  "name": "AllureTest",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected: 3\r\n  But was:  4\r\n",
+    "trace": "   at NUnitTestProject1.DemoClass.AllureTest() in C:\\Users\\mfah\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\DemoClass.cs:line 30\r\n"
+  },
+  "stage": "finished",
+  "description": "Description: test\n",
+  "steps": [
+    {
+      "name": "AllureTest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected: 3\r\n  But was:  4\r\n",
+        "trace": "   at NUnitTestProject1.DemoClass.AllureTest() in C:\\Users\\mfah\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\DemoClass.cs:line 30\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "56ba9b9127b9468b94ad0150e78c92e7-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1620978780300,
+      "stop": 1620978780427
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1620978780298,
+  "stop": 1620978780439
+}
