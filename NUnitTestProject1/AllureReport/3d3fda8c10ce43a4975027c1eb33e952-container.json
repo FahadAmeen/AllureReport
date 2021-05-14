@@ -1,0 +1,28 @@
+{
+  "uuid": "b8f6f338-8620-470e-b689-6225be9a8792-tc-0-1000",
+  "name": "NUnitTestProject1.CalculatorShould.OnePlusOneEqualTwo",
+  "children": [
+    "9279c46b-ac80-4e2f-b912-022648c38b50-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1620988703149,
+      "stop": 1620988703149
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1620988703148,
+  "stop": 1620988703150
+}

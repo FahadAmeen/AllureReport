@@ -1,0 +1,88 @@
+{
+  "uuid": "9092532e-9c06-4b1a-8c6b-5ab22f974abb-tr-0-1003",
+  "historyId": "NUnitTestProject1.CalculatorShould.FourPlusOneEqualFive",
+  "fullName": "NUnitTestProject1.CalculatorShould.FourPlusOneEqualFive",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NB-MFAH"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "testMethod",
+      "value": "FourPlusOneEqualFive"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.CalculatorShould"
+    },
+    {
+      "name": "tag",
+      "value": "Addition"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "AllureTag"
+    },
+    {
+      "name": "tag",
+      "value": "addition"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "Addition"
+    }
+  ],
+  "links": [],
+  "name": "FourPlusOneEqualFive",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Add 4 +1 = 5\n",
+  "steps": [
+    {
+      "name": "FourPlusOneEqualFive",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "636e9dbe493a4b3ca69c8b9effdf817f-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1620988703046,
+      "stop": 1620988703080
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1620988703044,
+  "stop": 1620988703091
+}
